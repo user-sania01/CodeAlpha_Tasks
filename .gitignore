@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+**/venv/
+**/.venv/
+**/env/
+
+# TensorFlow / ML files
+**/*.keras
+**/*.h5
+**/*.ckpt
+**/*.pkl
+
+# Large datasets
+**/data/raw/
+**/*.zip
+
+# Generated files
+**/generated_music.mid
+
+# Logs
+**/*.log
+
+# Environment variables
+**/.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
